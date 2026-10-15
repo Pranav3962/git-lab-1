@@ -1,3 +1,1 @@
-" # My first git project" 
-"## about" 
-"This project is a git practice lab." 
+"# git lab project (main branch version)" 
